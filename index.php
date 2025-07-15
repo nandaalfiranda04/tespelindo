@@ -1,7 +1,7 @@
 <?php
 include 'config.php';
 date_default_timezone_set('Asia/Jakarta');
-$role = $_GET['role'] ?? 'anggota';
+$role = $_GET['role'] ?? 'index';
 ?>
 
 <!DOCTYPE html>
